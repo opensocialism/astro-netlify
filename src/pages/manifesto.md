@@ -5,7 +5,7 @@ title: Manifesto for Open Socialism
 
 ![logo-h](https://user-images.githubusercontent.com/34670018/231368487-e7c3cb78-1f6c-4a1e-9abd-8af4807a7fdc.png)
 
-# Manifesto for Open Socialism
+## Manifesto for Open Socialism
 
 We, the members of the Open Socialism community, believe that technology can be used as a tool to achieve social equality, freedom, and environmental protection. We envision a world where access to knowledge, resources, and technology is open and available to all.
 
